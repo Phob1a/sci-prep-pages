@@ -1,0 +1,22 @@
+:root {
+  --ink: #173238;
+  --muted: #65787d;
+  --paper: #f5f1e8;
+  --surface: #fffdf8;
+  --surface-2: #eaf0ec;
+  --line: #d6ded9;
+  --brand: #153f48;
+  --brand-2: #236774;
+  --accent: #d59b31;
+  --accent-soft: #f7e8c8;
+  --good: #24764f;
+  --good-soft: #e1f2e7;
+  --bad: #a43c32;
+  --bad-soft: #f8e5e1;
+  --warn: #8b651d;
+  --warn-soft: #fff3d6;
+  --shadow: 0 14px 42px rgba(23, 50, 56, 0.10);
+  --radius: 18px;
+  --font-ui: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-serif: Georgia, "Noto Serif SC", serif;
+}
